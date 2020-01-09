@@ -1,0 +1,27 @@
+---
+title: New post!
+author: ''
+date: '2020-01-09'
+slug: my_new_folder
+categories: []
+tags:
+  - hiking
+  - biking
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2020-01-09T15:02:30-08:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+Here's some amazing code:
+
+```{r}
+plot(cars)
+```
+
