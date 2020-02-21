@@ -14,7 +14,7 @@ email: "davesegan@gmail.com"
 interests:
 - Energy Efficiency
 - Renewable Energy Development
-- Green Urbanism
+- Sustainable Transportation
 name: David Segan
 organizations:
 - name: University of California, Santa Barbara
